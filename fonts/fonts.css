@@ -1,0 +1,103 @@
+
+@font-face {
+  font-family: 'ProximaNova-Black';
+  src: url('ProximaNova-Black/ProximaNova-Black.eot');
+  src: url('ProximaNova-Black/ProximaNova-Black.woff2') format('woff2'),
+       url('ProximaNova-Black/ProximaNova-Black.woff') format('woff'),
+       url('ProximaNova-Black/ProximaNova-Black.ttf') format('truetype'),
+       url('ProximaNova-Black/ProximaNova-Black.svg#ProximaNova-Black') format('svg'),
+       url('ProximaNova-Black/ProximaNova-Black.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ProximaNova-Regular';
+  src: url('ProximaNova-Regular/ProximaNova-Regular.eot');
+  src: url('ProximaNova-Regular/ProximaNova-Regular.woff2') format('woff2'),
+       url('ProximaNova-Regular/ProximaNova-Regular.woff') format('woff'),
+       url('ProximaNova-Regular/ProximaNova-Regular.ttf') format('truetype'),
+       url('ProximaNova-Regular/ProximaNova-Regular.svg#ProximaNova-Regular') format('svg'),
+       url('ProximaNova-Regular/ProximaNova-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ProximaNova-Extrabld';
+  src: url('ProximaNova-Extra/ProximaNova-Extrabld.eot');
+  src: url('ProximaNova-Extra/ProximaNova-Extrabld.woff2') format('woff2'),
+       url('ProximaNova-Extra/ProximaNova-Extrabld.woff') format('woff'),
+       url('ProximaNova-Extra/ProximaNova-Extrabld.ttf') format('truetype'),
+       url('ProximaNova-Extra/ProximaNova-Extrabld.svg#ProximaNova-Extrabld') format('svg'),
+       url('ProximaNova-Extra/ProximaNova-Extrabld.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+
+  font-family: 'ProximaNova-Bold';
+
+  src: url('ProximaNova-Bold/ProximaNova-Bold.eot');
+
+  src: url('ProximaNova-Bold/ProximaNova-Bold.woff2') format('woff2'),
+
+       url('ProximaNova-Bold/ProximaNova-Bold.woff') format('woff'),
+
+       url('ProximaNova-Bold/ProximaNova-Bold.ttf') format('truetype'),
+
+       url('ProximaNova-Bold/ProximaNova-Bold.svg#ProximaNova-Bold') format('svg'),
+
+       url('ProximaNova-Bold/ProximaNova-Bold.eot?#iefix') format('embedded-opentype');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+@font-face {
+
+  font-family: 'Gilroy-ExtraBold';
+
+  src: url('gilroy-bold/Gilroy-ExtraBold.woff') format('woff'),
+
+       url('gilroy-bold/Gilroy-ExtraBold.ttf') format('truetype'),
+
+       url('gilroy-bold/Gilroy-ExtraBold.svg#Gilroy-ExtraBold') format('svg');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+
+  font-family: 'Gilroyextrabold';
+
+  src: url('gilroy-bold/Gilroyextrabold.eot');
+
+  src: url('gilroy-bold/Gilroyextrabold.woff2') format('woff2'),
+
+       url('gilroy-bold/Gilroyextrabold.eot?#iefix') format('embedded-opentype');
+
+  font-weight: normal;
+
+  font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSans-SemiBold';
+    src: url('Open_Sans/OpenSans-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans-ExtraBold';
+    src: url('Open_Sans/OpenSans-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
